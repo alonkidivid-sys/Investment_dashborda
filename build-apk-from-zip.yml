@@ -1,4 +1,4 @@
-name: Build Investment Allocation APK
+name: .github/workflows/build-apk-from-zip.yml
 
 on:
   workflow_dispatch:
